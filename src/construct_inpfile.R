@@ -12,7 +12,7 @@ locality <- "Middelkerke"
 month <-"06"
 year <-"2024"
 oever<-""
-setwd(paste0("C:/Users/frederique_steen/Documents/GitHub/Crayfish_density/",year,"_",month,"_",locality,oever))
+setwd(paste0("./localities/",year,"_",month,"_",locality,oever))
 
 input<-list.files(paste0(getwd(),"/data/input/"), pattern= "\\.xlsx$")
 data <-
