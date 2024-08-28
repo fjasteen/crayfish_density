@@ -7,7 +7,7 @@ year <- "2024"
 oever <- ""
 setwd(
   paste0(
-    "C:/Users/frederique_steen/Documents/GitHub/Crayfish_density/",
+    "./localities/",
     year,
     "_",
     month,
