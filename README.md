@@ -12,7 +12,7 @@
 
 Deze repo omvat de volgende folders:
 	1. src: bevat alle scripts
- 	2. YYYY_MM_LOCATIE: de map van de respectieve densiteitsmetingen
-		1. data
+ 	2. localities: folder met data en bewerkingen
+		Voor elk van de metingen beschreven in het rapport werd een folder opgemaakt genaamd YYYY_MM_'localiteit'. Voor het uitvoeren van berekeningen voor nieuwe localiteiten, dient er een nieuwe folder gemaakte te worden met dezelfde naam. Elke folder bevat 2 subdirectories: 
 				1. input: ingevulde veldformulier (Veldformulier_LOCALITY_MM_YYYY) & inpfiles
 				2. output: de genereerde output van de berekeningen in een tekstfile
