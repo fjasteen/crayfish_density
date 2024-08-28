@@ -1,0 +1,7 @@
+p	c	f0	model	npar	AICc	DeltaAICc	weight	Deviance	model_short	estimate	se	lcl	ucl
+~time		~1	p(~time)c()f0(~1)	6	-870.310677761194	0	0.999905596528892	21.994835	mt	923.180976648695	204.035730262845	619.157862720497	1442.0788187012
+~1		~1	p(~1)c()f0(~1)	2	-851.7750011464968	18.535676614697195	9.440347110809145e-5	48.607325	m0	950.58985900496	211.026232337947	635.898083988375	1486.87782521413
+
+
+In totaal werden 189 kreeften gevangen, tijdens 5 dagen, en er waren 17 hervangsten. Dit is 8.99%.
+De densiteit na model averaging is: 923.183564142329 met een standaard error van 204.036575271141
